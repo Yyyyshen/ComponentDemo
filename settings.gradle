@@ -1,0 +1,1 @@
+include ':app', ':module_index', ':module_me', ':module_edit', ':common', ':component_base'
